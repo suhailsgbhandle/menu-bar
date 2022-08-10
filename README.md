@@ -1,8 +1,8 @@
 <h1 align="center">Menu Bar</h1>
 
-<h3 align="left">Description</h3> <h4 align="left">Responsive Menu Bar with HTML and CSS</h4>
+<h3 align="left">Description:</h3> <h4 align="left">Responsive Menu Bar with HTML and CSS</h4>
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/html" target="_blank" title="HTML - Hypertext Markup Language" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/202/202303.png" alt="html logo" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/css" target="_blank" title="CSS - Cascading Style Sheet" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/202/202318.png" alt="css logo" width="40" height="40"/> </a>
