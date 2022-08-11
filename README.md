@@ -1,6 +1,6 @@
 <h1 align="center">Menu Bar</h1>
 
-<p align="center">Check it here:- <a href="https://menu-bar-a.netlify.app/">menu-bar_a</a></p>
+<p>You will get here some interesting and different Menu Bar's.</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
